@@ -39,7 +39,7 @@ Make sure the following are installed on your system:
 Check Node.js version:
 ```bash
 node -v
-```bash
+---
 
 2️⃣ Clone the Repository
 bash
