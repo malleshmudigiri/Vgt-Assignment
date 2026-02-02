@@ -17,30 +17,6 @@ Make sure the following are installed on your system:
 Check Node.js version:
 ```bash
 node -v
-2️⃣ Clone the Repository
-bash
-Copy code
-git clone https://github.com/malleshmudigiri/Vgt-Assignment.git
-cd vgtassignment
-3️⃣ Install Dependencies
-bash
-Copy code
-npm install
-4️⃣ Start the Development Server
-bash
-Copy code
-npm run dev
-Open your browser and visit:
-http://localhost:5173
 
-🛠️ Tech Stack
-React (Vite)
 
-React Router DOM
-
-Tailwind CSS
-
-JavaScript (ES6+)
-
-LocalStorage API
 
